@@ -1,0 +1,44 @@
+.popupScreen {
+    padding: 1%!important;
+}
+.popupScreen .modal-content {
+
+    font-size: 14px!important;
+    color: #000!important;
+    letter-spacing: 0!important;
+    text-align: left!important;
+    width: 100%!important;
+    border-radius: 0;
+    margin-left: 0!important;
+    margin-top: 0!important;
+}
+.popupHeader {
+    background: #e8e9ea;
+    height: 48px;
+    font-size: 20px;
+}.popupMessageText {
+    font-size: 1vw;
+    color: #242424;
+    letter-spacing: 0;
+    padding-left: 3%;
+    line-height: 18px;
+    text-align: left;
+    padding-top: 30px;
+}   
+.modal-body {
+    position: relative;
+    padding: 40px;
+    font-size: 18px;
+    color: #58595a;
+}
+.popupButton{
+    background-color: #ff702b;
+    width: 87px;
+    color: white;
+    font-weight: 600;
+    font-size: 16px
+}
+.popupButton:hover{
+    background-color: red;
+    color: white;
+}

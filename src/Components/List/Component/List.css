@@ -1,0 +1,63 @@
+.post-container {
+    height: 380px !important;
+    padding-left: 3% !important;
+    padding-right: 3% !important;
+}
+.MuiCardHeader-root-108 {
+    display: flex;
+    align-items: center;
+    padding-top: 28px !important;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    height: 40px;
+}
+.MuiTypography-colorTextSecondary-65 {
+    padding-top: 0px !important;
+}
+.MuiCardActions-root-142{
+    display: flex;
+    padding: 8px 4px;
+    box-sizing: border-box;
+    align-items: center;
+    height: 45px !important;
+
+}
+.MuiTypography-root-117{
+    margin: 0;
+    display: block;
+    padding-top: 14px;
+}
+.MuiPaper-rounded-8 {
+    border-radius: 2px;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+.MuiCardHeader-title-112 {
+    font-size: 16px !important;
+}
+.MuiCardHeader-subheader-113  {
+    font-size: 10px !important;
+    padding-top: 0px;
+} 
+.MuiTypography-body1-126 {
+    font-size: 15px !important;
+    text-decoration: underline !important;
+}
+.no-records-found{
+    color: #454242;
+    width: 100% !important;
+    padding-top: 5% !important;
+    background-color: #eaeef1;
+    font-weight: 700;
+}
+.MuiBadge-colorPrimary-166{
+    color: #0a0c0b !important;
+    font-size: 13px !important;
+    background-color: #fbfbff00 !important;
+}
+.stepper-container {
+    display: block;
+    padding-bottom: 5%;
+    padding-right: 42px;
+}
